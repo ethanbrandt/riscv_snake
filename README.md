@@ -1,6 +1,9 @@
 # RISC-V SNAKE
 Snake clone programmed in RISC-V assembly for the linux terminal
 
+![RISC-V SNAKE](https://github.com/user-attachments/assets/d1d1dfb3-e3f5-4c5f-9440-710608d04db3)
+
+
 ### Compilation Specifications
 I programmed and compiled this on Ubuntu 22.04.3 LTS using QEMU. While this project should be compatible with other distros and RISC-V emulators, I have not tested them.
 
